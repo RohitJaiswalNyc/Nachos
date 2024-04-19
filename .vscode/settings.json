@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "xlocmes": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp",
+        "errno.h": "c",
+        "xstring": "cpp",
+        "xlocale": "cpp",
+        "charconv": "cpp",
+        "xmemory": "cpp"
+    }
+}
